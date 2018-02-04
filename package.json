@@ -1,0 +1,23 @@
+{
+  "name": "herokubot",
+  "version": "1.0.0",
+  "description": "hello =)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Sqlapk@bitbucket.org/Sqlapk/heroku0218bot.git"
+  },
+  "engines": {
+    "node": "8.9.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Sqlapk/heroku0218bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
